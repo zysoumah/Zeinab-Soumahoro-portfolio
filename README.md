@@ -8,7 +8,6 @@ In this class, my aspiration is to master the art of crafting compelling data vi
 ## 1. Assignment: Data visualization critiques 
 # My Awesome Project
 
-
 <iframe src="https://data.oecd.org/chart/7kkn" width="760" height="570" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kkn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, latest</a></iframe>
 
 
