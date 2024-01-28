@@ -7,6 +7,7 @@ In this class, my aspiration is to master the art of crafting compelling data vi
 # Portfolio
 ## 1. Assignment: Data visualization critiques 
 ## 2. Assignment: Data visualization workshops
+
 <iframe src="https://data.oecd.org/chart/7kkn" width="760" height="570" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kkn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, latest</a></iframe>
 
 ## 3. Final project
