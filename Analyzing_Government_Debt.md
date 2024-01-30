@@ -33,3 +33,11 @@ For this third visualization, I utilized a subset of the data to create a visual
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+# Written Summary
+
+The initial visualization displays the General Government Debt as a percentage of GDP in 2022. Employing a bar chart, the countries are arranged from the lowest to the highest debt, highlighting the comparative levels effectively. Despite the categorical nature of the x-axis data (countries), a single color is utilized, simplifying the representation to focus on classifying countries based on their debt magnitude.
+
+In contrast, the second visualization adopts a heat map format to illustrate government debt across different years. The color scheme employs shades of orange and blue to denote varying debt intensities. Blue signifies years with lower debt, while shades of orange represent periods with higher debt levels, creating a visual contrast for easy interpretation. This dynamic representation enhances the viewer's ability to discern temporal patterns in government debt across countries, offering a comprehensive perspective on the data.
+
+For my visualization, I chose to depict the US government's financial situation five years before and after the 2008 financial crisis. The aim was to illustrate how the crisis impacted government debt. As evident, prior to the crisis, the US government debt was relatively low, but it began to rise after the crisis. This can be attributed to a decline in GDP, coupled with an increase in government spending.
