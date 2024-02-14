@@ -19,6 +19,19 @@ Two years ago, a close friend of mine embarked on an exciting journey by accepti
 •	Suggestions may include the implementation of counseling services, wellness initiatives, and mental health education to create a supportive work environment.
 
 # Initial Sketches
+![IMG_6681](https://github.com/zysoumah/Zeinab-Soumahoro-portfolio/assets/123124282/29f197bd-30f7-4f5a-b437-9d585b80db69)
+
+![IMG_6682](https://github.com/zysoumah/Zeinab-Soumahoro-portfolio/assets/123124282/60a52e29-6e42-497f-a476-de6959bf0c0c)
+
+![IMG_6683](https://github.com/zysoumah/Zeinab-Soumahoro-portfolio/assets/123124282/77dbce1b-019b-475b-95db-9c6bd2e62fbf)
+
+# Method And Medium
+
+I intend to use Python for data cleaning tasks, utilize Tableau for data aggregation, and chart creation. Additionally, I will use Shorthand to complete and present my final project.
+
+
+
+
 
 
 
