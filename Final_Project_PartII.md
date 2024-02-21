@@ -25,18 +25,49 @@ I structured my questions based on their initial impressions of the topic, highl
 |I would like to gather feedback on potential improvements, alterations, or additional content to enhance the overall quality of the project.      |  5- What changes or additions would you suggest?
 |I would like to Identify the target audience as perceived by the respondent, ensuring alignment with the project's intended communication goals.      |  6- In your opinion, who would you say is the intended audience for this project?
 
-Text here!
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+## Interview findings 
+### 1)  28 years old Male working at the Government of Canada 
 
-Text here!
+#### 1- What are your initial impressions of this project?
+ Very engaging, I thoroughly enjoyed going through every detail          
+#### 2- What aspects of the information surprised you?                         
+ The accessibility of mental health resources at only 10%. I expected a higher percentage given how mainstream the topic is.                         
+#### 3- Did you find any parts of the information confusing?                        
+Absolutely not, everything is clear!                              
+#### 4- Does the sequence of information in the project make sense to you?                        
+ Yes, it does!
+#### 5- What changes or additions would you suggest?                        
+1- One thing I think is missing is the composition of the workforce in these two countries (particularly in the tech industry).More immigrants? The dominant age category? gender? etc. 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+2- How does it compare to other industries? The purpose of my question is to understand whether the tech industry is a unique case or whether the trend is general in the US labor market.If you find that the % for other industries is lower, you could mention it so as to strengthen your case. Otherwise, just skip it! It doesn't affect the relevance of your topic
+
+3- You could write a short introductory sentence here too to maintain a coherent structure in your document. You did it for: Similarities in Causes
+
+4- Please remove the decimals on the x-axis.I think you should add the % for the other bars as well.The text is not visible. Maybe black instead of grey?
+#### 6- In your opinion, who would you say is the intended audience for this project? 
+For tech industry workers, policymakers, and industry leaders. 
+
+### 2) 27 years female working at a 500 fortune Company 
+
+### 3)  28 years old female pursuing a Master in Computer Science 
+#### 1- What are your initial impressions of this project?
+ The project is a "current topic," particularly due to recent layoffs in the tech industry. It sheds light on the experiences of employees within large tech companies, potentially prompting awareness about how employees are treated and the overall work environment.
+ 
+#### 2- What aspects of the information surprised you?                         
+ The metrics in the US are higher than the one in UK. It might be due to the fact that Americans are outspoken about their issues
+ 
+#### 3- Did you find any parts of the information confusing?                        
+Mental health coverage : the text doesn’t specify what it is, so it’s difficult to perceive the idea and truly measure what it is
+
+#### 4- Does the sequence of information in the project make sense to you?                        
+ Yes, it follow a logical structure 
+#### 5- What changes or additions would you suggest?                        
+Can you be more specific about the call to action? Maybe instead of listing policies, can you also provide existing resources that exist to support tech employees. 
+I think that will be more impactful. You could also provie more details about what mental health coverage is 
+#### 6- In your opinion, who would you say is the intended audience for this project? 
+People willing to work in tech or are looking for a change in career.
+
 
 
 # Identified changes for Part III
