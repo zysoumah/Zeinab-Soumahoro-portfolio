@@ -49,6 +49,23 @@ Absolutely not, everything is clear!
 For tech industry workers, policymakers, and industry leaders. 
 
 ### 2) 27 years female working at a 500 fortune Company 
+#### 1- What are your initial impressions of this project?
+This project is not just about statistics; it's about the well-being of individuals within an industry that drives innovation and progress. It's a reminder that behind every line of code or groundbreaking technology, there are people facing real struggles and challenges. The significance of this project extends beyond the tech industry. It speaks to broader societal issues surrounding mental health awareness, workplace culture, and the importance of prioritizing employee well-being in all sectors. As someone working in the tech industry, this report hits close to home. It's a wakeup call to the industry as a whole to reevaluate its priorities and ensure that the pursuit of excellence doesn't come at the expense of mental health.
+
+#### 2- What aspects of the information surprised you? 
+It's surprising to learn that over half of tech professionals in both the UK and the US experience symptoms of depression or anxiety. Also, the high percentage of tech workers in the US who have received a mental health diagnosis is alarming. It underscores the urgent need for more comprehensive support systems and resources within companies to address these issues proactively. These statistics challenge the notion of the tech industry as a glamorous and high-flying sector, instead revealing the toll that its fast-paced and demanding nature can take on individuals' mental well-being.
+
+#### 3- Did you find any parts of the information confusing?  
+While the report does a commendable job of explaining complex terms like "Mental Health Parity and Addiction Equity Act," providing real-world examples or case studies could further enhance understanding. This would help readers grasp the practical implications of these policies on the lives of tech workers. Additionally, breaking down technical jargon into simpler language could make the report more accessible to a wider audience. This would ensure that important information about mental health in the tech industry reaches as many people as possible.
+
+#### 4- Does the sequence of information in the project make sense to you? 
+The sequence of the report flows logically, guiding readers through the various aspects of mental health challenges in the tech industry in a clear and organized manner. It builds a compelling narrative that highlights the interconnectedness of issues like workplace stress, stigma, and government policies. By presenting data, insights, and recommendations in a structured manner, the report effectively communicates the urgency of addressing mental health issues in the tech sector and provides a roadmap for action.
+
+#### 5- What changes or additions would you suggest?
+In addition to including more data and examples, incorporating insights from mental health experts or psychologists could lend credibility to the recommendations put forth in the report. Their perspectives could offer valuable insights into effective strategies for promoting mental well-being in the workplace. Furthermore, exploring the role of technology itself in either exacerbating or alleviating mental health issues could add another layer of depth to the analysis. For example, discussing the impact of social media or digital devices on mental well-being could provide valuable context for understanding the challenges faced by tech workers.
+
+#### 6- In your opinion, who would you say is the intended audience for this project? 
+While policymakers, healthcare professionals, and industry leaders are key stakeholders, it's important not to overlook the individual tech workers themselves as part of the intended audience. By empowering employees with knowledge and resources to address their mental health, the report can facilitate positive change from the ground up
 
 ### 3)  28 years old female pursuing a Master in Computer Science 
 #### 1- What are your initial impressions of this project?
