@@ -1,12 +1,6 @@
 #  The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
@@ -14,16 +8,30 @@ Text here!
 Text here!
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+###  Identified Changes from part 2 to part II
+#### Improvements Plan:
+1.	Introduce a Relatable Persona: You should consider incorporating a character into the overview to enhance engagement.
+2.	Adjust Legend Title Color: You should modify the color of the legend title to improve visibility and clarity.
+3.	Enhance Chart Titles: You should augment chart titles by appending sentences that succinctly describe the main insights.
+4.	Utilize Call-Out Statistics: You should employ call-out statistics to emphasize key figures, such as the percentage of UK and US tech workers.
+5.	Include Tangible Resources: You should integrate practical resources to provide additional support and guidance for the audience
 
-Text here!
+#### Final Decisions Changes
+Based on TA , Professor and The TA feedback, Here are the changes I am made to make on my final story
+1.	I revised my overview by shifting from using quotes to crafting a persona based on the story of my friend, following Professor Chris's recommendation.
+2.	In my visualization, I enhanced visibility by changing the color of the title and included statistics directly on the chart. This was particularly relevant for the graph discussing employees' willingness to address mental health concerns with their employer.
+3.	I improved the descriptive nature of my title, ensuring that my audience can readily comprehend the subject matter of the charts.
+4.	Utilizing called-out statistics in my shorthand story facilitated easy visibility for my audience, allowing them to grasp key data effortlessly.
+5.	To personalize my call to action, I included links to resources tailored for individuals in the tech industry who may be struggling with mental health issues. This addition aims to assist those who may not be familiar with available support resources.
 
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+#### Design Decision 
+The choices of the pictures for my story were a challenge for me . Since mental health is a sensitive topic, I didn’t want to use images that could be triggering . So I spent more 30 minutes to find the perfect images . For the overview part, I used the persona I create based off my friend story and then I added a picture to make it more appealing. I also added transition slides to introduce the next section of my story I was going to discuss. I love using transition slides because it help your user know ahead what is the  next topic you are going to discuss in your presentation / article. 
+To emphasize key points and statistics, I strategically highlighted them within the text. Each subsection was prefaced with an introductory sentence to maintain a smooth flow throughout the story. Additionally, I included navigational sections to allow busy readers to easily access specific areas of interest with a simple click.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Finding the right data was a challenge for me. Although mental health is recognized as an important issue, there's a scarcity of available data specifically focused on the mental well-being of tech workers. Fortunately, I stumbled upon the Open Source Mental Health survey, which provided a wealth of information. Initially, I intended to explore the mental health of tech workers in the US, but my professors advised that the scope was too broad and suggested focusing on the UK instead. Luckily, I found suitable data in the OSMI survey.
+Another struggle I encountered was cleaning the data. Survey data tends to be messy, so I attempted to tidy it up using Tableau, but found it too difficult. I turned to Python for data cleaning, where I removed unnecessary columns and filtered data for UK and US respondents with mental health issues, then saved them as separate Excel datasets.
+Most of the data consisted of Yes/No responses, resulting in numerous bar charts, which I wanted to avoid. To address this, I calculated the percentage of Yes and No responses for the relevant fields and created bar and semi-circle pie charts. For a unique perspective on the top mental health issues among tech workers, I opted for a bubble chart in Tableau. However, due to data complexity, I had to utilize Python to clean the data further using regex before creating a separate Excel file for the bubble chart.
+Given more time, I would have compared mental health within the tech industry to other sectors, possibly through conducting my own survey. Additionally, I would have explored which positions within the tech industry are most affected by mental health issues and investigated the impact of remote work and layoffs on tech workers' mental health.
+Ultimately, despite the initial learning curve, I loved using shorthand and Tableau. As someone interested in data analytics I consider this project invaluable for my career development and look forward to applying the skills learned in future endeavors.
