@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](Analyzing_Government_Debt) | [critique by design](Critique-by-Design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](Analyzing_Government_Debt.md) | [critique by design](Critique-by-Design.md) | [final project I](Final_Project_PartI.md) | [final project II](Final_Project_PartII.md) | [final project III](Final_Project_PartIII.md) |
 #  The final data story
 
 Final_Project_Part I
