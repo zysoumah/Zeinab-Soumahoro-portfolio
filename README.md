@@ -6,7 +6,7 @@ I'm Zeinab, currently pursuing a Master's in Data Analytics and Public Policy at
 In this class, my aspiration is to master the art of crafting compelling data visualizations, employing the perfect blend of colors and design elements. I aim to create visualizations that not only captivate but also ensure instant comprehension for my audience upon their first glance.
 # Portfolio
 ## Week 1 
-- **Personal portfolio: **
+- **Personal portfolio: https://zysoumah.github.io/Zeinab-Soumahoro-portfolio/**
   
 ## Week 2
 - **Data Visualization #1: [Visualizing Government Debt](Analyzing_Government_Debt.md)**
@@ -27,7 +27,7 @@ In this class, my aspiration is to master the art of crafting compelling data vi
 - **Final Project, [Part Three](Final_Project_PartIII.md)**
 
 ## Week 7
-- **Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)**
-- **Final Project Deliverable via Shorthand: [Promoting Equitable Tree Canopy in Chicago, IL]
+- **Final Project Presentation: [Part One](Final_Project_PartI.md), [Part Two](Final_Project_PartII.md), [Part Three](Final_Project_PartIII.md)**
+
 
 
