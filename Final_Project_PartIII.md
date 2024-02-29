@@ -3,9 +3,9 @@
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
- 
-Text here!
+Based on the interviews I conducted and my own judgment, I've identified several target audiences for my project. Firstly, individuals working in the tech industry are a primary audience since this topic directly concerns them. In addition, Many aspire to work in tech, lured by promises of high salaries and benefits, but often overlook the potential challenges and strains of the profession. Consulting is notorious for its heavy workload and long hours, but I discovered similar pressures exist in the tech sector. 
+Additionally, I've chosen to focus on Human Resources professionals within tech companies. This decision stems from my observation that many employees lack access to mental health resources within their organizations, and the topic is often avoided altogether. By targeting HR professionals, I aim to raise awareness about the importance of addressing mental health issues in the tech workforce.
+In line with my audience's needs, I plan to provide resources that benefit both employers and employees in the tech industry. For instance, employers can access training materials on mental health awareness to implement within their companies. Meanwhile, tech workers can find support and counseling through the resources listed on my website
 
 ## Final design decisions
 ###  Identified Changes from part 2 to part II
