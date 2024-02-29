@@ -1,6 +1,7 @@
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 #  The final data story
 
-
+Final_Project_Part I
 
 ## The audience
 Based on the interviews I conducted and my own judgment, I've identified several target audiences for my project. Firstly, individuals working in the tech industry are a primary audience since this topic directly concerns them. In addition, Many aspire to work in tech, lured by promises of high salaries and benefits, but often overlook the potential challenges and strains of the profession. Consulting is notorious for its heavy workload and long hours, but I discovered similar pressures exist in the tech sector. 
