@@ -6,30 +6,28 @@ I'm Zeinab, currently pursuing a Master's in Data Analytics and Public Policy at
 In this class, my aspiration is to master the art of crafting compelling data visualizations, employing the perfect blend of colors and design elements. I aim to create visualizations that not only captivate but also ensure instant comprehension for my audience upon their first glance.
 # Portfolio
 ## Week 1 
-- **Personal portfolio: https://kavenir.github.io/kavenir-tswd-portfolio/**
+- **Personal portfolio: **
   
 ## Week 2
-- **Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt.md)**
-- Week Two sketching exercise - Crafting for Clarity
+- **Data Visualization #1: [Visualizing Government Debt](Analyzing_Government_Debt.md)**
+- Week Two sketching exercise
 
 ## Week 3
-- **Assignment 3 & 4: [Critique by Design](critique-by-design.md)**
+- **Assignment 3 & 4: [Critique by Design](Critique-by-Design.md)**
   
 ## Week 4
-- Week Four sketching exercise - Choosing Chart Types
-- **Final Project, [Part One](final-project-part-one.md)**
+- Week Four: Choosing Chart Types
+- **Final Project, [Part One](Final_Project_PartI.md)**
 
 ## Week 5 
-- Week Five sketching exercise - Practicing Persuasion 
-- **Final Project, [Part Two](final-project-part-two.md)**
+- Week Five: Practicing Persuasion 
+- **Final Project, [Part Two](Final_Project_PartII.md)**
 
 ## Week 6 
-- **Final Project, [Part Three](final-project-part-three.md)**
+- **Final Project, [Part Three](Final_Project_PartIII.md)**
 
 ## Week 7
 - **Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)**
-- **Final Project Deliverable via Shorthand: [Promoting Equitable Tree Canopy in Chicago, IL](https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/index.html)**
+- **Final Project Deliverable via Shorthand: [Promoting Equitable Tree Canopy in Chicago, IL]
 
-## 1. Assignment 1:[Visualizing Government Debt](Analyzing_Government_Debt.md)
-## 2. Assignment 2: [Critique by design](Critique-by-Design.md)
-## 3. Final project
+
