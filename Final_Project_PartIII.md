@@ -6,7 +6,33 @@ My final story can be found here
 ## The audience
 Based on the interviews I conducted and my own judgment, I've identified several target audiences for my project. Firstly, individuals working in the tech industry are a primary audience since this topic directly concerns them. In addition, Many aspire to work in tech, lured by promises of high salaries and benefits, but often overlook the potential challenges and strains of the profession. Consulting is notorious for its heavy workload and long hours, but I discovered similar pressures exist in the tech sector. 
 Additionally, I've chosen to focus on Human Resources professionals within tech companies. This decision stems from my observation that many employees lack access to mental health resources within their organizations, and the topic is often avoided altogether. By targeting HR professionals, I aim to raise awareness about the importance of addressing mental health issues in the tech workforce.
-In line with my audience's needs, I plan to provide resources that benefit both employers and employees in the tech industry. For instance, employers can access training materials on mental health awareness to implement within their companies. Meanwhile, tech workers can find support and counseling through the resources listed on my website
+In line with my audience's needs, I plan to provide resources that benefit both employers and employees in the tech industry. For instance, employers can access training materials on mental health awareness to implement within their companies. Meanwhile, tech workers can find support and counseling through the resources listed on my website.
+
+## References
+
+1- Kaggle. (2016). Mental Health in Tech (2016). Retrieved from https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
+
+2- Diversity in Tech. (n.d.). Workplace Diversity and Mental Health in Tech. Retrieved from https://www.diversityintech.co.uk/workplace-diversity-and-mental-health-in-tech/#:~:text=The%20report%20found%20that%2052,working%20in%20the%20health%20service.
+
+4-Substance Abuse and Mental Health Services Administration. (n.d.). Approaches Implementing Mental Health Parity and Addiction Equity Act: Best Practices - States. Retrieved from https://store.samhsa.gov/product/approaches-implementing-mental-health-parity-and-addiction-equity-act-best-practices-states
+
+5-Healthcare.gov. (n.d.). Affordable Care Act. Retrieved from https://www.healthcare.gov/glossary/affordable-care-act/
+
+6-Collins, P. Y., Lee, S., Chiang, C.-Y., & Goldman, H. H. (2012). Health Care Reform and Mental Health in the United States: An Overview of the Affordable Care Act and Mental Health. Psychiatric Services, 63(3), 283–285. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405352/
+
+7-Raudenbush, D. M. (2023). A Comparative Analysis of the US and UK Health Care Systems. Michigan Journal of Economics, 1(1), 26–47. Retrieved from https://sites.lsa.umich.edu/mje/2023/05/26/a-comparative-analysis-of-the-us-and-uk-health-care-systems/
+
+8-Mental Health America. (n.d.). Mental Health America Launches Workplace Mental Health Resource Hub. Retrieved from https://www.mhanational.org/mental-health-america-launches-workplace-mental-health-resource-hub
+
+9-Substance Abuse and Mental Health Services Administration. (n.d.). Provide Support. Retrieved from https://www.samhsa.gov/workplace/employer-resources/provide-support
+
+10-Mind. (n.d.). Mind Wellness Action Plan for the Workplace. Retrieved from https://www.mind.org.uk/media/12145/mind-wellness-action-plan-workplace.pdf
+
+11-Mind. (n.d.). Mind Guide for Employees: Wellness Action Plans. Retrieved from https://www.mind.org.uk/media-a/5760/mind-guide-for-employees-wellness-action-plans_final.pdf
+
+12- Opinium. (2019). BIMA Tech and Inclusion Report 2019. Retrieved from https://www.opinium.com/wp-content/uploads/2019/04/BIMA-Tech-and-Inclusion-Report-2019.pdf
+
+
 
 ## Final design decisions
 ###  Identified Changes from part 2 to part II
