@@ -1,7 +1,9 @@
 | [home page](https://zysoumah.github.io/Zeinab-Soumahoro-portfolio/)] | [visualizing debt](Analyzing_Government_Debt.md) | [critique by design](Critique-by-Design.md) | [final project I](Final_Project_PartI.md) | [final project II](Final_Project_PartII.md) | [final project III](Final_Project_PartIII.md) |
 #  The final data story
 My final story can be found here
+
 <script src="https://yasmina954.shorthandstories.com/a65ac79e-b75c-4e28-8f3f-93de14ae45ff/embed.js"></script>
+
 ## The audience
 Based on the interviews I conducted and my own judgment, I've identified several target audiences for my project. Firstly, individuals working in the tech industry are a primary audience since this topic directly concerns them. In addition, Many aspire to work in tech, lured by promises of high salaries and benefits, but often overlook the potential challenges and strains of the profession. Consulting is notorious for its heavy workload and long hours, but I discovered similar pressures exist in the tech sector. 
 Additionally, I've chosen to focus on Human Resources professionals within tech companies. This decision stems from my observation that many employees lack access to mental health resources within their organizations, and the topic is often avoided altogether. By targeting HR professionals, I aim to raise awareness about the importance of addressing mental health issues in the tech workforce.
