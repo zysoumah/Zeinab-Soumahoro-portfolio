@@ -1,7 +1,6 @@
 | [home page](https://zysoumah.github.io/Zeinab-Soumahoro-portfolio/)] | [visualizing debt](Analyzing_Government_Debt.md) | [critique by design](Critique-by-Design.md) | [final project I](Final_Project_PartI.md) | [final project II](Final_Project_PartII.md) | [final project III](Final_Project_PartIII.md) |[final project deliverable](https://yasmina954.shorthandstories.com/a65ac79e-b75c-4e28-8f3f-93de14ae45ff/)
 #  The final data story
 My final story can be found here
-
 <script src="https://yasmina954.shorthandstories.com/a65ac79e-b75c-4e28-8f3f-93de14ae45ff/embed.js"></script>
 
 ## The audience
