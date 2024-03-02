@@ -28,6 +28,6 @@ In this class, my aspiration is to master the art of crafting compelling data vi
 
 ## Week 7
 - **Final Project Presentation: [Part One](Final_Project_PartI.md), [Part Two](Final_Project_PartII.md), [Part Three](Final_Project_PartIII.md)**
-
+- **Final Project Link: [Mental Health in Tech Industry](https://yasmina954.shorthandstories.com/a65ac79e-b75c-4e28-8f3f-93de14ae45ff/)**
 
 
